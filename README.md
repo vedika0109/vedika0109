@@ -1,6 +1,9 @@
-## Hi👋,I'm Vedika
+##                                                            Hi👋,I'm Vedika
 
 Machine Learning, Data Science, and Data Structures enthusiast building intelligent, real-world applications using Python, TensorFlow, and Streamlit. Passionate about solving complex problems and turning data into impactful solutions. Always exploring new technologies and scalable architectures.
+
+
+.📫Reach me at:vedikac019@gmail.com,www.linkedin.com/in/ivedika 
 
 <!--
 **vedika0109/vedika0109** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
